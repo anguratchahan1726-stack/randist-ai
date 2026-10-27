@@ -1,0 +1,51 @@
+[
+  {
+    "image_file": "sample_test/normal_cxr_01.png",
+    "case_id": "CXR-1001",
+    "patient_view": "PA",
+    "labels": [
+      "No Finding"
+    ]
+  },
+  {
+    "image_file": "sample_test/cardiomegaly_cxr_02.png",
+    "case_id": "CXR-1002",
+    "patient_view": "AP",
+    "labels": [
+      "Cardiomegaly"
+    ]
+  },
+  {
+    "image_file": "sample_test/pleural_effusion_cxr_03.png",
+    "case_id": "CXR-1003",
+    "patient_view": "PA",
+    "labels": [
+      "Pleural Effusion"
+    ]
+  },
+  {
+    "image_file": "sample_test/consolidation_cxr_04.png",
+    "case_id": "CXR-1004",
+    "patient_view": "PA",
+    "labels": [
+      "Consolidation",
+      "Infiltration"
+    ]
+  },
+  {
+    "image_file": "sample_test/pneumothorax_cxr_05.png",
+    "case_id": "CXR-1005",
+    "patient_view": "PA",
+    "labels": [
+      "Pneumothorax"
+    ]
+  },
+  {
+    "image_file": "sample_test/normal_cxr_06.jpg",
+    "case_id": "CXR-1006",
+    "patient_view": "PA",
+    "labels": [
+      "No Finding"
+    ]
+  }
+]

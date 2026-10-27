@@ -1,0 +1,21 @@
+{
+  "model_name": "RadInsight_MobileNetV2_Trained",
+  "checkpoint_path": "C:\\Users\\HP\\.gemini\\antigravity\\scratch\\RadInsightAI\\models\\mobilenetv2_chest_xray.keras",
+  "num_classes": 8,
+  "classes": [
+    "Atelectasis",
+    "Cardiomegaly",
+    "Consolidation",
+    "Edema",
+    "Infiltration",
+    "Pleural Effusion",
+    "Pneumothorax",
+    "No Finding"
+  ],
+  "training_status": "CALIBRATED_DEMO",
+  "trained_epochs": 2,
+  "final_loss": 0.7205768823623657,
+  "final_val_loss": 0.7163164019584656,
+  "created_at": "2026-10-12 21:12:17",
+  "notes": "Model checkpoint saved via train_classifier.py. For full clinical research grade weights, execute full fine-tuning on NIH ChestX-ray14."
+}
